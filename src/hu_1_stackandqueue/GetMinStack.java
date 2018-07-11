@@ -1,4 +1,4 @@
-package stackandqueue;
+package hu_1_stackandqueue;
 
 /**
  * 题目：
