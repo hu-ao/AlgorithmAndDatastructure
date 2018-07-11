@@ -14,7 +14,7 @@ import java.util.Stack;
  * 题解：在设计上我们使用两个栈，一个栈用来保存当前栈中的元素，其功能和一个正常的栈没有区别，这个栈记为stackData;
  * 另一个栈用于保存每一步的最小值，这个栈记为stackMin。具体的实现方式有两种：
  */
-public class GetMinStack {
+public class Problem_01_GetMinStack {
     //方案一
     public static class MyStack1{
         private Stack<Integer> stackData;
